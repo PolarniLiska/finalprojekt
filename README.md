@@ -1,5 +1,5 @@
 <B>O PROJEKTU <br></B>
-Chtěl bych postavit detektor deště, který bude do telefonu odesílat informace o dešti a kolik naprší. <br>
+Chtěl bych postavit detektor deště, který bude do telefonu odesílat informace o dešti a kolik ho naprší. <br>
 <B>Součástky<br></B>
 esp8266, Rain Sensor, Rain Gauge <br>
 <B>Odkazy<br></B>
