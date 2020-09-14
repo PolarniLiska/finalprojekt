@@ -1,4 +1,5 @@
-<B>Detektor Deště
+<B>O PROJEKTU
+ Chtěl bych postavit detektor deště, který bude do telefonu odesílat informace o dešti a kolik naprší. <br>
 
 https://www.easyduino.cz/Destovy-senzor-detektor-deste-kompatibilni-s-Arduino-d169.htm <br>
 https://www.thingiverse.com/thing:2163969 <br>
