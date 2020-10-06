@@ -10,3 +10,11 @@ https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-rain-sensor-bce
 https://www.instructables.com/id/Arduino-Rain-Gauge-Calibration/ <br>
 https://www.allaboutcircuits.com/projects/build-a-wireless-tipping-bucket-rain-gauge-part-1assembling-the-base/ <br>
 https://arduino-shop.cz/arduino/1352-esp8266-bezdratovy-modul-esp-12f-ap-sta.html <br>
+
+<B>Časový plán<br></B>
+Říjen - přijdou součástky, začátek kodu<br>
+Listopad - vytisklé všechny modely postavený obvod<br>
+Prosinec - dokončit<br><br>
+
+Momentálně pořád čekám na součástky<br>
+
