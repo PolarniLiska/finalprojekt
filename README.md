@@ -13,7 +13,7 @@ https://arduino-shop.cz/arduino/1352-esp8266-bezdratovy-modul-esp-12f-ap-sta.htm
 
 <B>Časový plán<br></B>
 Říjen - přijdou součástky, začátek kodu<br>
-Listopad - vytisklé všechny modely postavený obvod<br>
+Listopad - vytisklé všechny modely, postavený obvod<br>
 Prosinec - dokončit<br><br>
 
 Momentálně pořád čekám na součástky<br>
