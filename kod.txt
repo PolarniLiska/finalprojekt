@@ -21,3 +21,39 @@ void loop() {
   Serial.println(rainAnalogVal);
   delay(200);
 }
+
+void loop() {
+  int rainAnalogVal = analogRead(rainAnalog);
+  boolean bIsRaining = !(digitalRead(rainDigital));
+
+  Serial.print(rainAnalogVal);
+  Serial.print("\t");
+  Serial.println(bIsRaining);
+  delay(200);
+}
+
+#define rainAnalog A1
+#define sensorPower 7
+boolean bIsRaining;
+
+void setup() {
+  Serial.begin(9600);
+}
+void loop() {
+  digitalWrite(sensorPower, HIGH);  // Turn the sensor ON
+  delay(10);              // Allow power to settle
+  int rainAnalogVal = analogRead(rainAnalog);
+
+  if(rainAnalogVal&lt;100) {
+    bIsRaining = true;
+  }
+  else {
+    bIsRaining = false;
+  }
+  digitalWrite(sensorPower, LOW);    // Turn the sensor OFF
+
+  Serial.print(rainAnalogVal);
+  Serial.print("\t");
+  Serial.println(bIsRaining);
+  delay(1000ul*60*5); // wait for 5 Minutes
+}
