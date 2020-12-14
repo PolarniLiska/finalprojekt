@@ -3,6 +3,7 @@ Chtěl bych postavit detektor deště, který bude do telefonu odesílat informa
 <B>Součástky<br></B>
 esp8266, Rain Sensor, Rain Gauge <br>
 <B>Odkazy<br></B>
+https://www.hackster.io/KaustubhAgarwal/rain-warning-display-on-mobile-for-your-home-garden-86c691<br>
 https://www.easyduino.cz/Destovy-senzor-detektor-deste-kompatibilni-s-Arduino-d169.htm <br>
 https://www.thingiverse.com/thing:2163969 <br>
 https://www.instructables.com/id/NodeMCU-Hall-Effect-Rain-Gauge/ <br>
@@ -16,5 +17,5 @@ https://arduino-shop.cz/arduino/1352-esp8266-bezdratovy-modul-esp-12f-ap-sta.htm
 Listopad - vytisklé všechny modely, postavený obvod<br>
 Prosinec - dokončit<br><br>
 
-Momentálně pořád čekám na součástky<br>
+
 
