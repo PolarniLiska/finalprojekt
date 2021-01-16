@@ -1,7 +1,7 @@
 <B>O PROJEKTU <br></B>
 Chtěl bych postavit detektor deště, který bude do telefonu odesílat informace o dešti a kolik ho naprší. <br>
 <B>Součástky<br></B>
-esp8266, Rain Sensor, Rain Gauge <br>
+esp8266, Rain Sensor<br>
 <B>Odkazy<br></B>
 https://www.hackster.io/KaustubhAgarwal/rain-warning-display-on-mobile-for-your-home-garden-86c691<br>
 https://www.easyduino.cz/Destovy-senzor-detektor-deste-kompatibilni-s-Arduino-d169.htm <br>
