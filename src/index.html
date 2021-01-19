@@ -112,17 +112,15 @@ function drawDate(){
     var today  = new Date();
     document.getElementById("date").innerHTML = today.toLocaleDateString("en-US", options);
     
-    
-//Get Rain Data
     var xhttp = new XMLHttpRequest();   
     xhttp.onreadystatechange = function() {
       if (this.readyState == 4 && this.status == 200) {
       var txt = this.responseText;
-      var obj = JSON.parse(txt); //Ref: https://www.w3schools.com/js/js_json_parse.asp
+      var obj = JSON.parse(txt);
         document.getElementById("rain").innerHTML = obj.Rain + "%";
       }  
     };
-   xhttp.open("GET", "readADC", true); //Handle readADC server on ESP8266
+   xhttp.open("GET", "readADC", true);
    xhttp.send();
 }
 </script>
